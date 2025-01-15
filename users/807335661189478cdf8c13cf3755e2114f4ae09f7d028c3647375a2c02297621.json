@@ -1,0 +1,21 @@
+{
+  "hash": "807335661189478cdf8c13cf3755e2114f4ae09f7d028c3647375a2c02297621",
+  "id": "000001",
+  "name": "Clara Picazo Dieguez",
+  "email": null,
+  "phone": "+34637561352",
+  "address": "Villanueva del Pardillo, Madrid, España. CP. 28229",
+  "allergies": [],
+  "medications": [],
+  "medicalConditions": [],
+  "bloodType": null,
+  "nationality": "ES",
+  "language": "ES_es",
+  "emergencyContacts": [
+    {
+      "name": "Carlos Picazo",
+      "phone": "+34637561352",
+      "email": "c.picazo.cuesta@gmail.com"
+    }
+  ]
+}
