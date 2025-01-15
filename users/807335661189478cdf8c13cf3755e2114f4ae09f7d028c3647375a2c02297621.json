@@ -5,10 +5,16 @@
   "email": null,
   "phone": "+34637561352",
   "address": "Villanueva del Pardillo, Madrid, España. CP. 28229",
-  "allergies": [],
-  "medications": [],
-  "medicalConditions": [],
-  "bloodType": null,
+  "allergies": [
+    "none"
+  ],
+  "medications": [
+    "none"
+  ],
+  "medicalConditions": [
+    "none"
+  ],
+  "bloodType": "A+",
   "nationality": "ES",
   "language": "ES_es",
   "emergencyContacts": [
@@ -16,6 +22,11 @@
       "name": "Carlos Picazo",
       "phone": "+34637561352",
       "email": "c.picazo.cuesta@gmail.com"
+    },
+    {
+      "name": "Teresa Dieguez",
+      "phone": "+34664760687",
+      "email": "teresadieguezrisco@gmail.com"
     }
   ]
 }
