@@ -1,0 +1,98 @@
+{
+  "hash": "807335661189478cdf8c13cf3755e2114f4ae09f7d028c3647375a2c02297621",
+  "miniHash": "2c02297621",
+  "id": "000001",
+  "name": "Clara Picazo Dieguez",
+  "email": null,
+  "address": "Villanueva del Pardillo, Madrid, España. CP. 28229",
+  "language": "ES_es",
+  "nationality": "ES",
+  "bloodType": "A+",
+  "emergencyContacts": [
+    {
+      "name": "Carlos Picazo",
+      "phone": "+34637561352",
+      "email": "c.picazo.cuesta@gmail.com"
+    },
+    {
+      "name": "Teresa Dieguez",
+      "phone": "+34664760687",
+      "email": "teresadieguezrisco@gmail.com"
+    }
+  ],
+  "info": {
+    "es": {
+      "allergies": [
+        "ninguna"
+      ],
+      "medications": [
+        "ninguna"
+      ],
+      "medicalConditions": [
+        "autismo",
+        "sordera"
+      ],
+      "vaccines": [
+        "ninguna"
+      ],
+      "comments": [
+        "ninguna"
+      ]
+    },
+    "en": {
+      "allergies": [
+        "none"
+      ],
+      "medications": [
+        "none"
+      ],
+      "medicalConditions": [
+        "none"
+      ],
+      "vaccines": [
+        "none"
+      ],
+      "comments": [
+        "none"
+      ]
+    }
+  },
+  "medicalInsurance": {
+    "es": [
+      {
+        "label": "Compañía",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Póliza",
+        "value": "123456789"
+      },
+      {
+        "label": "Teléfono",
+        "value": "+34912345678"
+      },
+      {
+        "label": "Teléfono internacional",
+        "value": "+34912345678"
+      }
+    ],
+    "en": [
+      {
+        "label": "Company",
+        "value": "Sanitas"
+      },
+      {
+        "label": "Policy",
+        "value": "123456789"
+      },
+      {
+        "label": "Phone",
+        "value": "+34912345678"
+      },
+      {
+        "label": "International phone",
+        "value": "+34912345678"
+      }
+    ]
+  }
+}
